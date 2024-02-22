@@ -10,7 +10,7 @@ const Header = () => {
       <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
           <Navbar.Text>
-            <a href="#login">Link</a>
+            <a href="#login" className="btn btn-primary btn-sm">LOGIN</a>
           </Navbar.Text>
         </Navbar.Collapse>
     </Container>
